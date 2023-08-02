@@ -11,7 +11,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-
+    https://github.com/LucasWyski001/note-taker
 
  ## image of site
  ![Alt text](note-taker.jpg)
